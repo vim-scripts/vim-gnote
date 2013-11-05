@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4760
+
+use you gmail as your note place. When you use this plugin, your can send the current text to your gmail, within the default inbox named "gnote",
+the subject of your note will be your filename without suffix by default, so same filename(without suffix) will be in same dialogue. Just have a try, you'll see the effect.
+(any updates, please star at my github: https://github.com/Zuckonit/vim-gnote )
